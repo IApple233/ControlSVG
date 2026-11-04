@@ -1,2 +1,2 @@
-# Controlsvg
-Official implementation of ControlSVG
+# ControlSVG
+Official implementation of ControlSVG (Neurips 2026)
